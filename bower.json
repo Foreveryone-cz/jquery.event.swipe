@@ -1,14 +1,14 @@
 {
     "name": "jquery.event.swipe",
-    "version": "0.5.3",
+    "version": "0.5.4",
     "author": {
         "name": "Stephen Band",
         "url": "http://stephband.info",
         "twitter": "stephband"
     },
     "dependencies": {
-        "jquery": ">=1.7.0",
-        "jquery.event.move": "1.x"
+        "jquery": "*",
+        "jquery.event.move.feo": "git://github.com/Foreveryone-cz/jquery.event.move",
     },
     "licenses": [{"url":"http://www.wtfpl.net/txt/copying/"}],
     "main": "js/jquery.event.swipe.js",
