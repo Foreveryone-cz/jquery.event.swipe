@@ -8,7 +8,7 @@
     },
     "dependencies": {
         "jquery": "*",
-        "jquery.event.move.feo": "git://github.com/Foreveryone-cz/jquery.event.move",
+        "jquery.event.move.feo": "git://github.com/Foreveryone-cz/jquery.event.move"
     },
     "licenses": [{"url":"http://www.wtfpl.net/txt/copying/"}],
     "main": "js/jquery.event.swipe.js",
